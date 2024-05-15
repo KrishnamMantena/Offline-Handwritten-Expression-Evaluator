@@ -20,6 +20,3 @@
 6. urllib.parse
 7. tensorflow 
 8. matplotlib
-
-## Project Demonstration video:
-[LINK](https://www.youtube.com/watch?v=CHvkGsa-YF8)
